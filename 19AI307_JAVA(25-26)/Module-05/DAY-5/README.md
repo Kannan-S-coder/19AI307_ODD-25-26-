@@ -1,15 +1,6 @@
 # Ex.No:5(E) MULTITHREADING -SYNCHRONIZATION
 
 ## QUESTION:
-
-
-## AIM:
-
-
-## ALGORITHM :
-1.	Start the program# Ex.No:5(E) MULTITHREADING -SYNCHRONIZATION
-
-## QUESTION:
 Maintain two int variables a and b, read their initial values from user. Use synchronized block to swap them and print swapped values.
 
 Input:
@@ -97,33 +88,3 @@ The program successfully swaps the two integers inside a synchronized block and 
 
 
 
-
-2.	Import the necessary package 'java.util'
-3.	
-
-
-
-
-
-## PROGRAM:
- ```
-/*
-Program to implement a Synchronization concept using Java
-Developed by: 
-RegisterNumber:  
-*/
-```
-
-## SOURCE CODE:
-
-
-
-
-
-
-
-## OUTPUT:
-
-
-
-## RESULT:
